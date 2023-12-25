@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Pipenv (mloader)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Pipenv (mloader)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.12 (mloader)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (mloader)" project-jdk-type="Python SDK" />
+>>>>>>> 68e3d6f456754c3a0ad598849af0b7afcfa2ec5f
 </project>
